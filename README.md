@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%7C+Developer+%7C+Reverse+Engineer;Exploring+UAC+Bypasses+and+Low-Level+Tech;Building+Cool+Stuff+Every+Day!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%7C+Developer+%7C+Vibe+Coder;Exploring+UAC+Bypasses;Building+Cool+Stuff!" />
 </p>
 
 <br>
