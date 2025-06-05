@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I’m Tilk (@pythontilk)
+  👋 Hi, I’m Tilk
 </h1>
 
 <p align="center">
