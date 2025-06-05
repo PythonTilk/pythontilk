@@ -1,42 +1,66 @@
-<h1 align="center">👋 Hi, I'm Tilk (@pythontilk)</h1>
+<h1 align="center">
+  👋 Hi, I’m Tilk (@pythontilk)
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%7C+Developer+%7C+Tinkerer;Exploring+UAC+Bypasses+and+More;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%7C+Developer+%7C+Reverse+Engineer;Exploring+UAC+Bypasses+and+Low-Level+Tech;Building+Cool+Stuff+Every+Day!" />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pythontilk&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pythontilk&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythontilk&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=pythontilk&color=orange&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<br>
 
 ---
 
 ## 🧠 About Me
 
-I'm a student at **IT-Schule Stuttgart** in Germany, diving deep into the world of software development. My interests span from web development to system-level programming, and I'm currently exploring **UAC bypass techniques**.
+I’m a student at **IT-Schule Stuttgart** with a passion for diving deep into technology:
 
-- 🔍 Passionate about understanding system internals
-- 🛠️ Building and experimenting with various projects
-- 🌐 Always eager to learn and contribute to the developer community
-
----
-
-## 🚀 Featured Projects
-
-Here are some of the projects I've been working on:
-
-- [**simple-proxy**](https://github.com/PythonTilk/simple-proxy): A simple reverse proxy to bypass CORS, used by movie-web. :contentReference[oaicite:0]{index=0}
-
-- [**aternos-afkbot**](https://github.com/PythonTilk/aternos-afkbot): An AFK bot to keep your Aternos server alive.
-
-- [**School**](https://github.com/PythonTilk/School): A school project with a simple web application. :contentReference[oaicite:1]{index=1}
-
-- [**Wichteln**](https://github.com/PythonTilk/Wichteln): A fun project related to "Wichteln" (Secret Santa).
-
-- [**tilkdev.github.io**](https://github.com/PythonTilk/tilkdev.github.io): My personal website.
-
-Feel free to explore these repositories to see what I'm building and experimenting with!
+- 💻 Building practical tools and exploring **system internals**  
+- 🛠️ Working on **web backends**, **bypass techniques**, and **automation**  
+- 🧪 Always learning, experimenting, and breaking things to understand how they work  
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Notable Projects
 
-```yaml
-Languages:      Python, JavaScript, HTML/CSS
-Tools/Platforms: Git, Docker, Netlify
-Focus Areas:    Web Development, System Internals, Automation
+- 🔁 [**simple-proxy**](https://github.com/PythonTilk/simple-proxy)  
+  Lightweight reverse proxy to bypass CORS (used by [movie-web](https://github.com/movie-web/movie-web))
+
+- 🕒 [**aternos-afkbot**](https://github.com/PythonTilk/aternos-afkbot)  
+  A Discord/Minecraft bot that keeps your Aternos server online
+
+- 🎅 [**Wichteln**](https://github.com/PythonTilk/Wichteln)  
+  Secret Santa app with a smart matching algorithm
+
+- 🧪 [**UAC Bypass Research**](https://github.com/PythonTilk/UAC-bypass) *(experimental)*  
+  Testing known and new UAC bypass vectors on Windows
+
+- 🧑‍🏫 [**School**](https://github.com/PythonTilk/School)  
+  Collection of personal and group projects from my IT classes
+
+- 🌐 [**tilkdev.github.io**](https://github.com/PythonTilk/tilkdev.github.io)  
+  Source code for my personal site at [tilk.tech](https://tilk.tech)
+
+---
+
+## 🧰 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,docker,git,linux,react,sqlite,bash" />
+</p>
+
+---
+
+## 📫 Contact
+
