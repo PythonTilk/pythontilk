@@ -28,7 +28,7 @@ I’m a student at **IT-Schule Stuttgart** with a passion for diving deep into t
 
 - 💻 Building practical tools and exploring **system internals**  
 - 🛠️ Working on **web backends**, **bypass techniques**, and **automation**  
-- 🧪 Always learning, experimenting, and breaking things to understand how they work  
+- 🧪 Always learning, experimenting, and (mainly) breaking things to understand how they work  
 
 ---
 
@@ -43,7 +43,7 @@ I’m a student at **IT-Schule Stuttgart** with a passion for diving deep into t
 - 🎅 [**Wichteln**](https://github.com/PythonTilk/Wichteln)  
   Secret Santa app with a smart matching algorithm
 
-- 🧪 [**UAC Bypass Research**](https://github.com/PythonTilk/UAC-bypass) *(experimental)*  
+- 🧪 [**UAC Bypass Research**](https://github.com/PythonTilk/UAC-bypass) *(currently private)*  
   Testing known and new UAC bypass vectors on Windows
 
 - 🧑‍🏫 [**School**](https://github.com/PythonTilk/School)  
@@ -63,4 +63,4 @@ I’m a student at **IT-Schule Stuttgart** with a passion for diving deep into t
 ---
 
 ## 📫 Contact
-
+dont contact me
