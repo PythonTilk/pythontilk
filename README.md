@@ -43,3 +43,6 @@ I’m a student at **IT-Schule Stuttgart** with a passion for diving deep into t
 
 ## 📫 Contact
 dont contact me
+
+## 🔑 Public Key
+You can find my public PGP key [here](https://raw.githubusercontent.com/PythonTilk/bio.pythontilk.me/main/public_key.asc).
