@@ -22,13 +22,13 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I’m a student at **IT-Schule Stuttgart** with a passion for diving deep into technology:
+I’m a student at **HHN Heilbronn** with a passion for diving deep into technology:
 
-- 💻 Building practical tools and exploring **system internals**  
-- 🛠️ Working on **web backends**, **bypass techniques**, and **automation**  
-- 🧪 Always learning, experimenting, and (mainly) breaking things to understand how they work  
+-  Building practical tools and exploring **system internals**  
+-  Working on **web backends**, **bypass techniques**, and **automation**  
+-  Always learning, experimenting, and (mainly) breaking things to understand how they work  
 
 ---
 
