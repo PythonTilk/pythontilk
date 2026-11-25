@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Hi, I’m Tilk
+   Hi, I’m Tilk
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%7C+Developer+%7C+Vibe+Coder;Exploring+UAC+Bypasses;Building+Cool+Stuff!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%7C+Hobby+Developer+%7C+Learing+Stuff;Exploring+UAC+Bypasses;Building+Cool+Stuff!" />
 </p>
 
 <br>
@@ -27,13 +27,13 @@
 I’m a student at **HHN Heilbronn** with a passion for diving deep into technology:
 
 -  Building practical tools and exploring **system internals**  
--  Working on **web backends**, **bypass techniques**, and **automation**  
+-  Working on **web backends**, **Apple System security**, and **automation**  
 -  Always learning, experimenting, and (mainly) breaking things to understand how they work  
 
 ---
 
 
-## 🧰 Tech Stack & Skills
+##  Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,docker,git,linux,react,sqlite,bash" />
@@ -41,5 +41,5 @@ I’m a student at **HHN Heilbronn** with a passion for diving deep into technol
 
 ---
 
-## 🔑 Public Key
+##  Public Key
 You can find my public PGP key [here](https://raw.githubusercontent.com/PythonTilk/bio.pythontilk.me/main/public_key.asc).
